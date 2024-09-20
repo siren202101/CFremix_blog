@@ -1,0 +1,11 @@
+name = "TVbox"
+type = "webpack"
+account_id = "6fc319456edcff6ad2c7fd9a3b55cb92"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2023-05-18"
+
+[site]
+bucket = "./build"
+entry-point = "workers-site"
