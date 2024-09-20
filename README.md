@@ -104,14 +104,14 @@ my-blog-site/
 git clone [https://github.com/your-username/my-blog-site.git](https://github.com/your-username/my-blog-site.git)
 cd my-blog-site
 
-```plaintext
+```
 
 2. 安装依赖：
 ```
 
 npm install
 
-```plaintext
+```
 
 3. 创建 `.env` 文件并设置必要的环境变量。
 
@@ -120,7 +120,7 @@ npm install
 
 npm run dev
 
-```plaintext
+```
 
 ## 使用指南 (Usage Guide)
 
